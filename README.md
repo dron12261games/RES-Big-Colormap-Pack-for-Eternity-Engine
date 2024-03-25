@@ -12,7 +12,8 @@ To prevent colored lighting from being applied to the sky, a skybox must be used
 
 PLAYPAL and basic COLORMAP from Vanilla+ mod by WorldMachine, but it applies to vanilla colormap too, it just looks better with this.
 
-### Download - [Latest Release - v1](https://github.com/dron12261games/RES-Big-Colormap-Pack-for-Eternity-Engine/releases/download/v1/EECLRMPS.WAD)
+### Download - [Latest Release - COLORMAPs pack v1](https://github.com/dron12261games/RES-Big-Colormap-Pack-for-Eternity-Engine/releases/download/v1/EECLRMPS.WAD)
+### Download - [Latest Release - Example map](https://github.com/dron12261games/RES-Big-Colormap-Pack-for-Eternity-Engine/releases/download/v1/EXAMPLE.WAD)
 
 # COLORMAPs List:
 ### Pure colors _(from 1 to 8, 1 - less intense, 8 - more intense)_
@@ -87,3 +88,5 @@ PLAYPAL and basic COLORMAP from Vanilla+ mod by WorldMachine
 ![Screen4](./screens/4.png)
 ![Screen5](./screens/5.png)
 ![Screen6](./screens/6.png)
+![Screen7](./screens/7.png)
+![Screen8](./screens/8.png)
