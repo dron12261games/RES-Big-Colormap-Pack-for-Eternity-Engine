@@ -1,0 +1,87 @@
+--------------------------------------------------------------------------------
+
+Big colormap pack by DRON12261
+
+Most useful for Eternity Engine than Boom
+
+There are 56 colormaps for smooth gradient color lighting (total of 7 colors in 
+8 degrees of color overlay), there are 30 colormaps for fog in different colors, 
+and 4 additional colormaps for noir or contrasting black and white
+
+To apply a colormap in Eternity Engine UDMF to a particular sector, you must 
+open the custom properties of that sector and type the name of the desired 
+colormap in the colormapmid field
+
+The degree of fog in a sector depends on the brightness of the sector - the 
+darker the sector, the stronger the fog is
+
+To prevent colored lighting from being applied to the sky, a skybox must be used
+
+PLAYPAL and basic COLORMAP from Vanilla+ mod by WorldMachine, but it applies 
+to vanilla colormap too, it just looks better with this
+
+--------------------------------------------------------------------------------
+
+COLORMAPs list:
+
+Pure colors (from 1 to 8, 1 - less intense, 8 - more intense):
+---
+Green color:    GREN1MAP - GREN8MAP
+Red color:      RED1MAP  - RED8MAP
+Blue color:     BLUE1MAP - BLUE8MAP
+Yellow color:   YELL1MAP - YELL8MAP
+Orange color:   ORNG1MAP - ORNG8MAP
+Brown color:    BRWN1MAP - BRWN8MAP
+Gray color:     GRAY1MAP - GRAY8MAP
+---
+
+Fogs:
+---
+White fog:              FWHTEMAP
+Light gray fog:         FLGRAMAP
+Dark gray fog:          FDGRAMAP
+Black fog:              FBLCKMAP
+---
+Light green fog:        FLGRNMAP
+Medium green fog:       FMGRNMAP
+Dark green fog:         FDGRNMAP
+---
+Light yellow fog:       FLYELMAP
+Dark yellow fog:        FDYELMAP
+Light orange fog:       FLORGMAP
+Medium orange fog:      FMORGMAP
+Dark orange fog:        FDORGMAP
+---
+Light red fog:          FLREDMAP
+Medium red fog:         FMREDMAP
+Dark red fog:           FDREDMAP
+Light alt red fog:      FLR3DMAP
+Medium alt red fog:     FMR3DMAP
+Dark alt red fog:       FDR3DMAP
+---
+Light blue fog:         FLBLUMAP
+Medium blue fog:        FMBLUMAP
+Dark blue fog:          FDBLUMAP
+---
+Light brown fog:        FLBRNMAP
+Medium brown fog:       FMBRNMAP
+Dark brown fog:         FDBRNMAP
+---
+Light dirt fog:         FLDRTMAP
+Medium dirt fog:        FMDRTMAP
+Dark dirt fog:          FDDRTMAP
+Green dirt fog:         FGDRTMAP
+Dark green dirt fog:    FNDRTMAP
+---
+Purple fog:             FPURPMAP
+---
+
+Other:
+---
+Noir:           NOIR1MAP
+Contrast noir:  NOIR2MAP
+Black:          BLACKMAP
+Darker Black:   CONTRMAP
+---
+
+--------------------------------------------------------------------------------
